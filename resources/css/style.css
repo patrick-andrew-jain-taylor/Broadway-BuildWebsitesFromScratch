@@ -2,3 +2,44 @@ html {
     text-align: center;
     font-family: Helvetica, sans-serif;
 }
+
+.footer {
+    background-color: dimgray;
+    text-align: left;
+}
+
+.header, #copyright, #work h2, .footer, a {
+    color: white;
+}
+
+.header, #work h2 {
+    background-image: url("../images/the-flatiron-building.png");
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+a {
+     font-size: 18px;
+ }
+
+p {
+    font-size: 14px;
+}
+
+#process h2 {
+    font-size: 32px;
+}
+
+#work h2 {
+    font-size: 23px;
+}
+
+#copyright {
+    font-size: 11px;
+}
